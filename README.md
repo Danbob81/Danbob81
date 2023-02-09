@@ -1,5 +1,18 @@
 ![Banner](/images/github_banner.png)
 
+
+## This is me...
+
+I'm Dan, a Junior Software Developer having just completed the [Code Institute](https://codeinstitute.net/) Level 5 Diploma in Web Application Development. I enjoyed the challenges that the course presented, combining problem solving with creativity, in creating four distinct projects having learnt the programming skills needed for each. 
+You can find my course projects linked further down the page.
+
+
+
+
+
+
+
+
 <!--
 **Danbob81/Danbob81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
