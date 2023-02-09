@@ -1,4 +1,4 @@
-![Header](./[github_banner])
+![Header](./[github_banner.png])
 
 <!--
 **Danbob81/Danbob81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
